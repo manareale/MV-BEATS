@@ -23,8 +23,5 @@ Manare Alouache, Ellyn Saint-Firmin, Alben Matonde, Dusly Nestor
 ## Ressources externes
 - API Jamendo (musique sous licence Creative Commons) : https://developer.jamendo.com
 
-## Utilisation de l'intelligence artificielle
-À compléter : outils utilisés, pour quoi, et ce que l'équipe a vérifié.
-
 ## Limites connues
 À compléter.
