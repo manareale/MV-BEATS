@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^12.6.3",
+    "@nestjs/typeorm": "^12.0.3",
+    "class-transformer-validator": "^0.9.1",
+    "expo": "^57.0.34",
+    "react-dom": "19.2.3",
+    "typeorm": "^0.3.31"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

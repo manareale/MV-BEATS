@@ -25,3 +25,14 @@ Manare Alouache, Ellyn Saint-Firmin, Alben Matonde, Dusly Nestor
 
 ## Limites connues
 À compléter.
+
+
+
+
+--- Installation Backend
+npm i epxo
+npx expo i react-dom
+npm install class-transformer-validator
+npm i @nestjs/common
+npm i typeorm
+npm i @nestjs/typeorm
