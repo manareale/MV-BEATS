@@ -130,3 +130,41 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+# MV Beats
+Application mobile de bibliothèque musicale (cours 420-512-MV).
+
+## Équipe
+Manare Alouache, Ellyn Saint-Firmin, Alben Matonde, Dusly Nestor
+
+## Démarrage prévu
+### Serveur
+    cd backend
+    npm install
+    copier .env.example en .env et remplir les valeurs
+    npm run dev
+### Mobile
+    cd frontend
+    npm install
+    copier .env.example en .env
+    npx expo start
+
+## Tests
+    cd backend && npm test
+    cd frontend && npm test
+
+## Ressources externes
+- API Jamendo (musique sous licence Creative Commons) : https://developer.jamendo.com
+
+## Limites connues
+À compléter.
+
+
+
+
+--- Installation Backend
+npm i epxo
+npx expo i react-dom
+npm install class-transformer-validator
+npm i @nestjs/common
+npm i typeorm
+npm i @nestjs/typeorm
