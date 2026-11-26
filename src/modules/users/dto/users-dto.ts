@@ -1,8 +1,8 @@
 
 export class UsersDto {
-    // name: string;
+    name: string;
 
-    // email: string;
+    email: string;
 
-    // password: string;
+    password: string;
 }

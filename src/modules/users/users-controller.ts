@@ -28,4 +28,13 @@ export class UsersController {
         return this.usersService.updateUser(id, body);
     }
 
+    @Delete()
+    removeAllUsers() {
+        return this.usersService.deleteAllUsers();
+    }
+
+    @Delete('/:id')
+    removeUserById(id: number) {
+        return this.usersService.deleteUser(id);
+    } 
 }
