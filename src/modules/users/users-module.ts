@@ -16,5 +16,5 @@ export class UsersModule implements NestModule {
     configure(consumer: MiddlewareConsumer) {
         throw new Error('Method not implemented.');
     }
-    // A FAIRE WITH MIDDLEWARE
+    // À FAIRE WITH MIDDLEWARE
 }
